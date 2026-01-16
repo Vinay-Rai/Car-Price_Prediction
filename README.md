@@ -15,8 +15,9 @@ This project predicts car selling prices using Machine Learning regression model
 ## 📂 Project Structure
 ```
 Car_Price_Prediction.ipynb
-car data.csv
 README.md
+car data.csv
+requirement.txt
 ```
 
 ## 🚀 How to Run
